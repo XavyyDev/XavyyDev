@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Xavy
 - ✨ I are 16 years old
 - 💳 I currently developing websites, discord bots...
-- [!City](https://discord.com/assets/5c94579af4ab4f1e1ca895b431161e2e.svg) 🏙 I’m of Rome, Italy
+- 🏙 I’m of Rome, Italy
